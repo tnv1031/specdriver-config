@@ -1,1 +1,11 @@
-{}
+{
+  "effortLevel": "high",
+  "autoUpdatesChannel": "latest",
+  "env": {
+    "CLOUDFLARE_API_TOKEN": "KQdpikpwh9pr9W8GR1WyF9fYJ-iFjksCcCo05fS1"
+  },
+  "attribution": {
+    "commit": "",
+    "pr": ""
+  }
+}
